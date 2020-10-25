@@ -1,0 +1,43 @@
+.el-form-item .el-form-item__content .el-input .el-input__inner {
+  height: 30px;
+  border-radius: 0;
+}
+
+.el-button {
+  padding: 0 15px;
+  border-radius: 0;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+button {
+  outline:0 none;
+}
+.login { margin: 0 auto; }  
